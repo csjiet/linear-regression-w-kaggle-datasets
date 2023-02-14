@@ -1,4 +1,4 @@
-# linear_regression_w_kaggle
+# linear_regression_w_kaggle_datasets
 
 
 Author: Sui Jiet Tay
